@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SecurityException" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="SecurityException" />
+    <module name="client" />
+    <option name="VM_PARAMETERS" value="-classpath $PROJECT_DIR$/client/target/classes -Duser.password=BbWvOuliHZVHVwsXudsj14d1iXzo655R -Djava.security.manager" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

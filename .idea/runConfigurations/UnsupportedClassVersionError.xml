@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="UnsupportedClassVersionError" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="UnsupportedClassVersionError" />
+    <module name="client" />
+    <option name="VM_PARAMETERS" value="-classpath $MAVEN_REPOSITORY$/com/databricks/base/1.2-SNAPSHOT/base-1.2-SNAPSHOT.jar:$PROJECT_DIR$/client/target/classes" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.databricks:base:1.1-SNAPSHOT" type="repository">
+    <properties maven-id="com.databricks:base:1.1-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/databricks/base/1.1-SNAPSHOT/base-1.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

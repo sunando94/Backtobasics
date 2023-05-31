@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="IncompatibleClassChangeError_base_1.0_snapshot" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="IncompatibleClassChangeError" />
+    <module name="client" />
+    <option name="VM_PARAMETERS" value="-classpath $MAVEN_REPOSITORY$/com/databricks/base/1.0-SNAPSHOT/base-1.0-SNAPSHOT.jar:$PROJECT_DIR$/client/target/classes" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

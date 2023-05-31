@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ClassNotFoundException_base_1.0_SNAPSHOT" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="ClassNotFoundException" />
+    <module name="client" />
+    <option name="VM_PARAMETERS" value="-classpath $MAVEN_REPOSITORY$/com/databricks/base/1.0-SNAPSHOT/base-1.0-SNAPSHOT.jar:$PROJECT_DIR$/client/target/classes" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
