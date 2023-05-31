@@ -1,7 +1,5 @@
 # Backtobasics
 
-# Java Demo Project - Exception Handling
-
 This is a demo project written in Java that showcases the handling of various common exceptions. The project provides examples and explanations for the following exceptions:
 
 1. `ClassNotFoundException`: This exception occurs when the Java Virtual Machine (JVM) tries to load a class at runtime but cannot find it in the classpath. It typically happens when a class name specified in code does not exist or is misspelled.
